@@ -66,6 +66,7 @@ Size vs. Ratings: How the size of an app affects its rating and performance on t
 Content Rating Analysis: Trends in content ratings and their impact on app downloads.
 
 Conclusion
+
 This notebook provides a comprehensive analysis of the Google Play Store dataset, offering valuable insights into the mobile app market. 
 It can be used as a foundation for more advanced analyses or machine learning projects aimed at predicting app success factors.
 
